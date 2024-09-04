@@ -1,0 +1,3 @@
+- Find a good place for the clock, possibly in the very bottom left or right, to unobstruct any text overlay in menus
+- Move hook to a more static place (to account for unarchiving of the program, and moving it)
+- Make compatable with other programs that have the same hook (like cesium's keybinds)
